@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "si-679-f-26"
+assignment: "week09-nyt"
+secret: "mjt5rszh"
+owner:
+  username: "wxingyue-umich"
+  id: 243017017
+  accepted_at: "2026-11-17T19:01:48Z"
+source:
+  owner: "SI679-Classroom-F26"
+  owner_id: 316432332
+  repo: "week09-nyt-starter"
+  branch: "main"
